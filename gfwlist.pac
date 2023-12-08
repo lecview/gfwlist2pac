@@ -7,6 +7,8 @@ var rules = [
     [
         [
             "aftygh.gov.tw",
+            "track.malree.com",
+            "advertcn.com",
             "aide.gov.tw",
             "aliyun.com",
             "arte.gov.tw",
