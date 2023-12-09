@@ -2301,6 +2301,8 @@ var rules = [
             "googlevideo.com",
             "googleweblight.com",
             "googlezip.net",
+            "card.onekey.so",
+            "onekey.so",
             "gopetition.com",
             "goproxing.net",
             "goreforum.com",
