@@ -80,6 +80,7 @@ var rules = [
             "wallproxy.com.cn",
             "wanfang.gov.tw",
             "weibo.com",
+			"nexo.com",
             "yahoo.cn",
             "yatsen.gov.tw",
             "yda.gov.tw",
